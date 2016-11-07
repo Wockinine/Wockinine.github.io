@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a computer enthusiast and car enthusiast in my spare time!
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Tottenham Hotspur! COYS!
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
