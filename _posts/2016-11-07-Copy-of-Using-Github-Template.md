@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github Template
+title: 1st proper post
 layout: post
 author: benjamin.watkinson
 permalink: /copy-of-using-github-template/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Add a title appropriate to the lesson content</td>
+    <td>Starting the blog…...</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>What do you need to achieve this lesson? </td>
+    <td>A working test blog post</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes or no plus why! </td>
+    <td>Yes, as it is the post before this.</td>
   </tr>
 </table>
 
@@ -41,28 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don't write about what you were taught, focus on what you have learned.</td>
+    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is below this one!!!</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>The time in the lesson and the survey beforehand which lead me into running out of time to write his in the lesson. I need to work on my quick typing skills so i can code faster.  </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>Next time i shall be working from a better template webpage. </td>
   </tr>
 </table>
 
