@@ -40,13 +40,7 @@ table, th, td {
   width: 100%;
 	background-color:#ffffff;
 	color: #0d0d0d;
-	table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
-}
+	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -128,7 +122,28 @@ strong, b {
 img {
   max-width: 100%;
 }
+table {
+border-collapse: collapse;
+width: 100%;
+}
 
+table, th, td {
+border: 1px solid white;
+background-color:#984b43;
+
+}
+
+td {
+vertical-align: middle; 
+padding: 10px;
+}	
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
