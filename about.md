@@ -9,6 +9,6 @@ I am a computer enthusiast and car enthusiast in my spare time!
 
 ### More Information
 
-I support Tottenham Hotspur and my favouite computer is the Apple MacPro!
+I support Tottenham Hotspur 
 
 [email@domain.com](mailto:email@domain.com)
