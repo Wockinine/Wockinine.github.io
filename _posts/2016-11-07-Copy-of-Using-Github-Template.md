@@ -1,4 +1,4 @@
----
+7---
 title: Making It Pretty...
 layout: post
 author: benjamin.watkinson
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Working on sccs...</td>
     <td>Date</td>
-    <td>14/11/16</td>
+    <td>7/11/16</td>
   </tr>
 </table>
 
