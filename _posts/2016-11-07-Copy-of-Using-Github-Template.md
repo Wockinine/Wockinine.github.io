@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>A working test blog post</td>
+    <td>A working test blog post which appears onto my webpage.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, as it is the post before this.</td>
+    <td>Yes,i did it! in fact you are currently reading it.</td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is this one you are currently reading.</td>
+    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is this one you are currently reading. I used my quick typing abilities so I could complete as much work as I could in the small amountof time we had left.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i shall be working from a better template webpage so I will be able to do more derastic changes.</td>
+    <td>Next time i shall be working from a better template webpage so I will be able to do more derastic changes to make my webpage and blog more impressive.</td>
   </tr>
 </table>
 
