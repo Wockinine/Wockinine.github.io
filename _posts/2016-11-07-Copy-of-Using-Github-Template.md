@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>What point are you up to? What did you do last?</td>
+    <td>A very basic blue and white website templete </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
