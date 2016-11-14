@@ -1,5 +1,5 @@
 ---
-title: 1st proper post
+title: Making It Pretty...
 layout: post
 author: benjamin.watkinson
 permalink: /copy-of-using-github-template/
@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <th>Title</th>
-    <td>Starting the blog…...</td>
-    <th>Date</th>
-    <td>01/01/01</td>
+    <td>Title</td>
+    <td>Working on sccs...</td>
+    <td>Date</td>
+    <td>14/11/16</td>
   </tr>
 </table>
 
@@ -19,41 +19,41 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A very basic blue and white website templete </td>
+    <td>A basic webpage with little scss programming.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>A working test blog post which appears onto my webpage.</td>
+    <td>A functional and pretty looking blog.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes,i did it! in fact you are currently reading it.</td>
+    <td>Art is a matter of opinion but I think it is up to standard.</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is this one you are currently reading. I used my quick typing abilities so I could complete as much work as I could in the small amountof time we had left.</td>
+    <td>During this lesson I had to improvise and persevere when things went wrong (the sccs rendering system corrupted but I edited the html system and fixed it) and in the end came out with a reasonably good looking webpage. May I ask of what you think?</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The time in the lesson and the survey beforehand which lead me into running out of time to write his in the lesson. I need to work on my quick typing skills so i can code faster and more effectively. </td>
+    <td>The time it took for a change to appear was horrendous (60 seconds) so my time management was a little off this week.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i shall be working from a better template webpage so I will be able to do more derastic changes to make my webpage and blog more impressive.</td>
+    <td>Next week we will have the results for our blogs (like this one!) so I will be able to take the advice i am given to put it towards making this page the best i can with the limited resources and knowledge i have.</td>
   </tr>
 </table>
 
