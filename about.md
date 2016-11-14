@@ -9,7 +9,6 @@ I am a computer enthusiast and car enthusiast in my spare time!
 
 ### More Information
 
-Tottenham Hotspur! COYS!
-###Viper
+I support Tottenham Hotspur and my favouite computer is the Apple MacPro!
 
 [email@domain.com](mailto:email@domain.com)
