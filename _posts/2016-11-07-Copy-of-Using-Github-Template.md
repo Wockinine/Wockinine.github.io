@@ -1,10 +1,17 @@
-
+---
+title: Working on sccs
+layout: post
+author: benjamin.watkinson
+permalink: /copy-of-using-github-template/
+source-id: 19BITyimWToGStV5XTu61uXpcMmiX1gJUh27NAO8MC1w
+published: true
+---
 <table>
   <tr>
     <td>Title</td>
     <td>Working on sccs...</td>
     <td>Date</td>
-    <td>7/11/16</td>
+    <td>14/11/16</td>
   </tr>
 </table>
 
