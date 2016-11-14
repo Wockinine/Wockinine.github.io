@@ -35,25 +35,25 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is below this one!!!</td>
+    <td>During this lesson I had to follow instructions to effectively prepare my blog for its first gabriel post, which is this one you are currently reading.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The time in the lesson and the survey beforehand which lead me into running out of time to write his in the lesson. I need to work on my quick typing skills so i can code faster.  </td>
+    <td>The time in the lesson and the survey beforehand which lead me into running out of time to write his in the lesson. I need to work on my quick typing skills so i can code faster and more effectively. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i shall be working from a better template webpage. </td>
+    <td>Next time i shall be working from a better template webpage so I will be able to do more derastic changes.</td>
   </tr>
 </table>
 
