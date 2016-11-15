@@ -1,4 +1,4 @@
-I---
+---
 title: Working on sccs
 layout: post
 author: benjamin.watkinson
@@ -6,11 +6,13 @@ permalink: /copy-of-using-github-template/
 source-id: 19BITyimWToGStV5XTu61uXpcMmiX1gJUh27NAO8MC1w
 published: true
 ---
+	
+
 <table>
   <tr>
-    <th>Title</th>
+    <td>Title</td>
     <td>Working on sccs...</td>
-    <th>Date</th>
+    <td>Date</td>
     <td>14/11/16</td>
   </tr>
 </table>
@@ -35,7 +37,7 @@ published: true
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
@@ -53,7 +55,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next week we will have the results for our blogs (like this one!) so I will be able to take the advice I am given to put it towards making this page the best I can with the limited resources and knowledge I have.</td>
+    <td>Next week we will have the results for our blogs (like this one!) so I will be able to take the advice i am given to put it towards making this page the best I can with the limited resources and knowledge I have.</td>
   </tr>
 </table>
 
