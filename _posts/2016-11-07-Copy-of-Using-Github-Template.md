@@ -1,4 +1,4 @@
----
+I---
 title: Working on sccs
 layout: post
 author: benjamin.watkinson
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next week we will have the results for our blogs (like this one!) so I will be able to take the advice i am given to put it towards making this page the best i can with the limited resources and knowledge i have.</td>
+    <td>Next week we will have the results for our blogs (like this one!) so I will be able to take the advice I am given to put it towards making this page the best I can with the limited resources and knowledge I have.</td>
   </tr>
 </table>
 
