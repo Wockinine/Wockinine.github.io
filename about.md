@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a computer enthusiast and car enthusiast in my spare time!
+I am computer enthusiast and car enthusiast in my spare time!
 
 
 ### More Information
 
-I support Tottenham Hotspur 
+I support Tottenham Hotspur as well!
 
 [email@domain.com](mailto:email@domain.com)
