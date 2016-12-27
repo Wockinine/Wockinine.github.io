@@ -9,6 +9,6 @@ I am computer enthusiast and car enthusiast in my spare time!
 
 ### More Information
 
-I support Tottenham Hotspur as well!
+I support Tottenham Hotspur!!!
 
 [email@domain.com](mailto:email@domain.com)
