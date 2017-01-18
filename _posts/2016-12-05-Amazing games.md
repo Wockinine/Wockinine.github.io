@@ -2,7 +2,7 @@
 title: Post3
 layout: post
 author: benjamin.watkinson
-permalink: /post3/
+permalink: /Amazing games/
 source-id: 1foyG2xZDYPKIJ9kUHVGGNFQFlTP9aM-a-utDcV-y5CU
 published: true
 ---
