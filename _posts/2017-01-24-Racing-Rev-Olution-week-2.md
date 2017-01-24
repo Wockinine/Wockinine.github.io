@@ -10,9 +10,9 @@ published: true
 
 <table>
   <tr>
-    <td>Title</td>
-    <td>"racing rev-Olution" week 2</td>
-    <td>Date</td>
+    <th>Title</td>
+    <td>"racing rev-Olution" week 2</th>
+    <th>Date</th>
     <td>16/01/17</td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>End of lesson, what have I achieved?</td>
