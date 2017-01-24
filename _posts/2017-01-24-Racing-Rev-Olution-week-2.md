@@ -10,8 +10,8 @@ published: true
 
 <table>
   <tr>
-    <th>Title</td>
-    <td>"racing rev-Olution" week 2</th>
+    <th>Title</th>
+    <td>"racing rev-Olution" week 2</td>
     <th>Date</th>
     <td>16/01/17</td>
   </tr>
