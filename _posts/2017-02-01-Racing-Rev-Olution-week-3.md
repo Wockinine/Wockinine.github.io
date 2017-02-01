@@ -13,7 +13,7 @@ published: true
     <th>Title</th>
     <td>"racing rev-Olution" week 3</td>
     <th>Date</th>
-    <td>16/01/17</td>
+    <td>30/1/17</td>
   </tr>
 </table>
 
