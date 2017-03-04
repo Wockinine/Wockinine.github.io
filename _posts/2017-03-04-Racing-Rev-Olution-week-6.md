@@ -13,7 +13,7 @@ published: true
     <th>Title</th>
     <td>"racing rev-Olution" week 6</td>
     <th>Date</th>
-    <td>16/01/17</td>
+    <td>28/01/17</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A nearly finnished game</td>
+    <td>A nearly finished game</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
