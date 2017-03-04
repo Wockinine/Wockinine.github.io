@@ -10,9 +10,9 @@ published: true
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>"racing rev-Olution" week 6</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>16/01/17</td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ To add possibilities for a second track</td>
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>What are you going to work on today?</td>
