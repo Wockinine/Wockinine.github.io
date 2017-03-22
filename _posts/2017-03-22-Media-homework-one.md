@@ -18,10 +18,10 @@ Name of media example you deconstructed: online Computing website advertisement 
 
 <table>
   <tr>
-    <td>Who is the target audience in this media example? (Be specific)</td>
-    <td>What is the subtext (hidden or underlying message) in this media example?</td>
-    <td>What are the untold stories
-(what information is left out of the message)?</td>
+    <th>Who is the target audience in this media example? (Be specific)</th>
+    <th>What is the subtext (hidden or underlying message) in this media example?</th>
+    <th>What are the untold stories
+(what information is left out of the message)?</th>
   </tr>
   <tr>
     <td>Male, 18-28yr olds as the ad is advertising a suit so it is aimed towards the working community. </td>
