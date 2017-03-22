@@ -26,7 +26,7 @@ Name of media example you deconstructed: online Computing website advertisement 
     <td>Male, 18-28yr olds as the ad is advertising a suit so it is aimed towards the working community. </td>
     <td>This ad is telling people that if you buy their suit, you will become a computing genius and own a huge mansion which implies money. </td>
     <td>The man in the ad is obviously photoshopped as 
-His eyes are too central and there is no lense glare on his glasses although he is in a very bright room which reflective surfaces. Unless you were deliberately scanning the image, most people would not pick up on this as it is a small detail.</td>
+His eyes are too central and there is no lense glare on his glasses although he is in a very bright room with reflective surfaces. Unless you were deliberately scanning the image, most people would not pick up on this as it is a small detail.</td>
   </tr>
 </table>
 
