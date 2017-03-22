@@ -8,7 +8,7 @@ published: true
 ---
 Media Navigator Lesson 1 Homework
 
-Name:Ben Watkinson       Date: monday 20th match 
+Name:Ben Watkinson      <br> Date: monday 20th match 
 
 Assignment: Select a media example. This could be a commercial, billboard, radio ad, or magazine ad. 
 
