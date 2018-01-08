@@ -10,9 +10,9 @@ published: true
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>A New topic...</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>12/03/17</td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
@@ -48,8 +48,8 @@ published: true
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
-  </tr>
-  <tr>
+  </tr>
+  <tr>
     <td>Next week I think that I should try and make myself involved as this is a very important part of IT and general life skills. I find just listening to other people's thinking really interesting as it is another way of seeing the world.</td>
   </tr>
   <tr>
