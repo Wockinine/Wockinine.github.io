@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Getting used to Fuse...</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>15/01/18</td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
