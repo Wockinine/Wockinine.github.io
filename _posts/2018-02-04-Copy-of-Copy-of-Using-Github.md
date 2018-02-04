@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of Using Github
+title: Week 2
 layout: post
 author: benjamin.watkinson
 permalink: /copy-of-copy-of-using-github/
