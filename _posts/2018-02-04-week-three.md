@@ -1,5 +1,5 @@
 ---
-title: week 3
+title: Week 3
 layout: post
 author: benjamin.watkinson
 permalink: /week-three/
