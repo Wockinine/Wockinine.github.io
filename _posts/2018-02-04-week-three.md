@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <th>Title</th>
-    <td>week 3</td>
+    <td>German Trip</td>
     <th>Date</th>
     <td>30/01/18</td>
   </tr>
