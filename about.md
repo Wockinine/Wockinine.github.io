@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Projects
-permalink: /about/
+permalink: /My Projects/
 ---
 
 I am computer enthusiast and car enthusiast in my spare time!
